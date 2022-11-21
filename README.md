@@ -1,9 +1,6 @@
 # 💫 About Me:
 👨🏻‍💻 Full-Stack Developer <br>🚀 Self-Taught since 2012 <br>📚 I teach newbies how to code! <br>⭐ Current Goal: Mastery of Modular WP<br><a href="https://stefcodes.com/">Website</a>
 
-<a href="https://app.daily.dev/stefcodes"><img src="https://api.daily.dev/devcards/488950e3515445808781116b513e0e8b.png?r=25p" width="400" alt="Stefan F Meyer's Dev Card"/></a>
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/stefcodes) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/stefcodes) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/stefcodes) 
 
