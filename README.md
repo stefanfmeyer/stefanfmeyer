@@ -1,4 +1,18 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Stefan Meyer ====================================================================================================================================  Developer, Indie Hacker, Founder --------------------------------  👨🏻‍💻 Full-Stack Developer 👨🏻‍🏫 Self-Taught since 2012 📚 I teach newbies how to code!  * 🌍  I'm based in Liverpool * 🖥️  See my portfolio at [Stefcodes](http://Stefcodes.com) * ✉️  You can contact me at [stefanfmeyer@gmail.com](mailto:stefanfmeyer@gmail.com) * 🚀  I'm currently working on [Code Snippets AI](http://Codesnippets.ai) * 🧠  I'm learning how to master NextJS + Firebase * 🤝  I'm open to collaborating on AI dev tools
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+
+# My name is Stefan Meyer  
+## Developer, Indie Hacker, Founder   
+
+👨🏻‍💻 Full-Stack Developer 
+👨🏻‍🏫 Self-Taught since 2012 
+📚 I teach newbies how to code!  
+
+* 🌍  I'm based in Liverpool 
+* 🖥️  See my portfolio at [Stefcodes](http://Stefcodes.com) 
+* ✉️  You can contact me at [stefanfmeyer@gmail.com](mailto:stefanfmeyer@gmail.com) 
+* 🚀  I'm currently working on [Code Snippets AI](http://Codesnippets.ai) 
+* 🧠  I'm learning how to master NextJS + Firebase 
+* 🤝  I'm open to collaborating on AI dev tools
 
 
 
