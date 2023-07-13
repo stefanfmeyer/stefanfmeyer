@@ -1,5 +1,6 @@
-# 💫 About Me:
-👨🏻‍💻 Full-Stack Developer <br>🚀 Self-Taught since 2012 <br>📚 I teach newbies how to code! <br>⭐ Current Goal: Mastery of Modular WP<br>✨ <a href="https://codesnippets.ai/">Code Snippets AI</a>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Stefan Meyer ====================================================================================================================================  Developer, Indie Hacker, Founder --------------------------------  👨🏻‍💻 Full-Stack Developer 👨🏻‍🏫 Self-Taught since 2012 📚 I teach newbies how to code!  * 🌍  I'm based in Liverpool * 🖥️  See my portfolio at [Stefcodes](http://Stefcodes.com) * ✉️  You can contact me at [stefanfmeyer@gmail.com](mailto:stefanfmeyer@gmail.com) * 🚀  I'm currently working on [Code Snippets AI](http://Codesnippets.ai) * 🧠  I'm learning how to master NextJS + Firebase * 🤝  I'm open to collaborating on AI dev tools
+
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/stefcodes) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/stefcodes) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/stefcodes) 
