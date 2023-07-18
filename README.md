@@ -8,7 +8,7 @@
 * 👨🏻‍🏫 Self-Taught since 2012 
 * 📚 I teach newbies how to code!  
 * 🌍  I'm based in Liverpool 
-* 🖥️  See my portfolio at [Stefcodes](http://Stefcodes.com) 
+* 🖥️  See my portfolio at [Stefcodes](http://stefanfmeyer.com) 
 * ✉️  You can contact me at [stefanfmeyer@gmail.com](mailto:stefanfmeyer@gmail.com) 
 * 🚀  I'm currently working on [Code Snippets AI](http://Codesnippets.ai) 
 * 🧠  I'm learning how to master NextJS + Firebase 
