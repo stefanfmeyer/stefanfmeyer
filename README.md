@@ -7,7 +7,6 @@
 * 👨🏻‍💻 Full-Stack Developer 
 * 👨🏻‍🏫 Self-Taught since 2012 
 * 🌍 I'm based in Liverpool, UK 🇬🇧
-* 
 * 🖥️ See my portfolio at [Stefcodes](https://www.stefanfmeyer.com) 
 * ✉️ You can contact me at [stefanfmeyer@gmail.com](mailto:stefanfmeyer@gmail.com) 
 * 🚀 I'm currently working on [Code Snippets AI](https://codesnippets.ai) 
