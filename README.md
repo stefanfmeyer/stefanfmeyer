@@ -2,10 +2,9 @@
 
 
 * 🌍 I'm based in Liverpool, UK 🇬🇧
-* 🖥️ See my portfolio at [Stefcodes](https://www.stefanfmeyer.com) 
 * ✉️ You can contact me at [stefanfmeyer@gmail.com](mailto:stefanfmeyer@gmail.com) 
 * 🚀 I'm currently working on [Code Snippets AI](https://codesnippets.ai) 
-* 🤝 I'm open to collaborating on Indie Projects
+* 🤝 I'm open to collaborating on Projects
 
 # 📊 GitHub Stats
 ![](https://github-readme-streak-stats.herokuapp.com/?user=stefanfmeyer&theme=vue-dark&hide_border=true)<br/>
