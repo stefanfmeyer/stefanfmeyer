@@ -1,7 +1,7 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
 
 
-* 🌍 I'm based in Liverpool, UK 🇬🇧
+* 🌍 I'm based in UK 🇬🇧
 * ✉️ You can contact me at [stefanfmeyer@gmail.com](mailto:stefanfmeyer@gmail.com) 
 * 🚀 I'm currently working on [Code Snippets AI](https://codesnippets.ai) 
 * 🤝 I'm open to collaborating on Projects
