@@ -9,10 +9,6 @@
 
 - 🔭 I’m currently working on [Code Snippets AI](https://codesnippets.ai)
 
-- 🌱 I’m currently learning **Vibe-Coding xD**
-
-- 👨‍💻 All of my projects are available at [https://x.com/stefcodes](https://x.com/stefcodes)
-
 - 📝 I regularly post on X [https://x.com/stefcodes](https://x.com/stefcodes)
 
 - 💬 Ask me about **ReactJS, NextJS, Building production applications, IndieHacking**
