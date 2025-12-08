@@ -13,7 +13,7 @@ Ask me about **ReactJS, NextJS, Building production applications, IndieHacking**
 
 How to reach me **stefanfmeyer@protonmail.com**
 
-Know about my experiences [https://www.linkedin.com/in/stefcodes/](https://www.linkedin.com/in/stefcodes/)
+Learn about my experience [https://www.linkedin.com/in/stefcodes/](https://www.linkedin.com/in/stefcodes/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
