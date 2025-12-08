@@ -3,10 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stefanfmeyer&label=Profile%20views&color=0e75b6&style=flat" alt="stefanfmeyer" /> </p>
 
-[<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stefanfmeyer&title=Followers,Commits,Experience,Stars" alt="stefanfmeyer" /></a> </p>
-](https://github-profile-trophy.vercel.app/?username=ryo-ma&title=Stars,Followers)](https://github-profile-trophy.vercel.app/?username=ryo-ma)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stefanfmeyer&title=Followers,Commits,Experience,Stars" alt="stefanfmeyer" /></a> </p>
 
-I’m currently working on [Authority](https://authority.blog)
+I’m currently working on OSS [Authority](https://authority.blog)
 
 I regularly post on X [https://x.com/stefcodes](https://x.com/stefcodes)
 
