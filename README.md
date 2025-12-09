@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stefanfmeyer&label=Profile%20views&color=0e75b6&style=flat" alt="stefanfmeyer" /> </p>
 <h3 align="left">Engineer turning ideas into systems and products. Building in public. </h3>
 
-I’m currently working on [Contentium](https://contentium.pro) & [Authority](https://authority.blog)
+I’m currently working on [Contentium](https://contentium.pro)
 
 I regularly post on X [https://x.com/stefcodes](https://x.com/stefcodes)
 
