@@ -1,5 +1,5 @@
-<h1 align="left">Hi, I'm stefcodes</h1>
-<h3 align="left">Senior Dev | Building useful tools</h3>
+<h1 align="left">Hi, I'm Stefan</h1>
+<h3 align="left">Engineer turning ideas into systems and products. Building in public. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stefanfmeyer&label=Profile%20views&color=0e75b6&style=flat" alt="stefanfmeyer" /> </p>
 
