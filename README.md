@@ -4,8 +4,6 @@
 
 I’m currently working on [Contentium](https://contentium.pro)
 
-I regularly post on X [https://x.com/stefcodes](https://x.com/stefcodes)
-
 Ask me about **ReactJS, NextJS, Building production applications, IndieHacking**
 
 How to reach me **stefanfmeyer@protonmail.com**
