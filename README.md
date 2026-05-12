@@ -8,7 +8,7 @@ Ask me about **ReactJS, NextJS, Building production applications, IndieHacking**
 
 How to reach me **stefanfmeyer@protonmail.com**
 
-Learn about my experience [https://www.linkedin.com/in/stefcodes/](https://www.linkedin.com/in/stefcodes/)
+Learn about my experience [https://www.linkedin.com/in/stefanfmeyer/](https://www.linkedin.com/in/stefanfmeyer/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
